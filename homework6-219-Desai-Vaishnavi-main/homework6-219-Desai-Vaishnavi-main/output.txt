@@ -1,0 +1,13 @@
+Possible Paths:
+Reno -> San Francisco -> Salt Lake City -> Seattle -> Las Vegas -> Reno	 - 3337 Miles
+Reno -> San Francisco -> Seattle -> Las Vegas -> Salt Lake City -> Reno	 - 3080 Miles
+Reno -> San Francisco -> Seattle -> Salt Lake City -> Las Vegas -> Reno	 - 2715 Miles
+Reno -> Seattle -> Las Vegas -> Salt Lake City -> San Francisco -> Reno	 - 3194 Miles
+Reno -> Seattle -> Las Vegas -> San Francisco -> Salt Lake City -> Reno	 - 3642 Miles
+Reno -> Seattle -> Salt Lake City -> Las Vegas -> San Francisco -> Reno	 - 2741 Miles
+Reno -> Seattle -> Salt Lake City -> San Francisco -> Las Vegas -> Reno	 - 3278 Miles
+Reno -> Seattle -> San Francisco -> Las Vegas -> Salt Lake City -> Reno	 - 3021 Miles
+Reno -> Seattle -> San Francisco -> Salt Lake City -> Las Vegas -> Reno	 - 3108 Miles
+
+Cheapest Path:
+Reno -> San Francisco -> Seattle -> Salt Lake City -> Las Vegas -> Reno	 - 2715 Miles | 67.875 Gallons

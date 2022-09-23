@@ -1,0 +1,29 @@
+Reno
+San Francisco 218
+Salt Lake City 518
+Seattle 704
+Las Vegas 440
+
+San Francisco
+Reno 218
+Salt Lake City 736
+Seattle 808
+Las Vegas 570
+
+Salt Lake City
+Reno 518
+San Francisco 736
+Seattle 829
+Las Vegas 421
+
+Seattle
+Reno 704
+San Francisco 808
+Salt Lake City 829
+Las Vegas 1115
+
+Las Vegas
+Reno 439
+San Francisco 569
+Salt Lake City 421
+Seattle 1115
